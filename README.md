@@ -1,4 +1,4 @@
-# 🧮 Sistema de Inventario con SQLite (Ticket 004B)
+# 🧮 Sistema de Inventario con SQLite
 
 Este es un proyecto de consola hecho en **Python 3 + SQLite**, que permite gestionar un inventario de productos con operaciones CRUD (Crear, Leer, Actualizar, Eliminar).
 
