@@ -42,6 +42,7 @@ python sistema_inventario.py
 sistema_inventario_sqlite/
 ├── sistema_inventario.py     ← Código principal
 └── inventario.db             ← Se genera automáticamente
+
 ✅ Estado del proyecto
 ✅ Proyecto funcional
 🛠️ Hecho 100% por mí, sin copiar
